@@ -522,6 +522,11 @@ h2:hover {
     text-decoration: underline;
 }
 
-.nu{
-    text-decoration: none;
+.copyright {
+    font-size: 80%;
+    padding-bottom: 5px;
+    height: 27px;
+    color: white;
+    float: left;
+    padding-right: 25px;
 }
