@@ -521,3 +521,7 @@ h2:hover {
 .terms-text:hover{
     text-decoration: underline;
 }
+
+.nu{
+    text-decoration: none;
+}
